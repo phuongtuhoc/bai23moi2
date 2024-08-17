@@ -12,3 +12,6 @@ h1 {
   /* cỡ chữ */
   font-size: 18px;
 }
+h1 {
+  opacity: 50%;
+}
