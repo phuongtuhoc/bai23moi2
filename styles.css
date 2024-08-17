@@ -1,6 +1,9 @@
+body {
+  background-image: url(./img/photo-1492892132812-a00a8b245c45.avif);
+}
 h1 {
   /* màu chữ */
-  color: blueviolet;
+  color: red;
   /* kiểu chữ */
   font-style: italic;
   /* font chữ */
@@ -13,5 +16,7 @@ h1 {
   font-size: 18px;
 }
 h1 {
-  opacity: 50%;
+  opacity: 1;
+  display: none;
+  background-color: azure;
 }
